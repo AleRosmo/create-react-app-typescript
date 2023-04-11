@@ -11,6 +11,15 @@ Apparently you need to run these commands to get a basic working setup on Visual
 4. `yarn sdks vscode`
 5. `yarn cache clean`
 
+Worth doing an upgrade when using this
+
+`yarn up`
+
+or
+
+1. `yarn plugin import interactive-tools`
+2. `yarn upgrade-interactive`
+
 ## Available Scripts
 
 In the project directory, you can run:
